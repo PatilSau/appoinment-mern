@@ -33,7 +33,7 @@ TYPESCRIPT
 
 */
 app.use(cors({
-    origin: "http://localhost:5173",
+    origin: "https://appoinment-mern-production.up.railway.app",
     credentials: true
 }))
 
